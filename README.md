@@ -10,7 +10,7 @@ I'm Hamsa Jibril, an Software developer and IT professional 👨‍💻 with a p
 - 💬 Ask me about: Software development, User support, System optimization         
 - 😄 Pronouns: he/him
 - ⚡ Skills: JavaScript, JIRA, Power BI, SAS, Salesforce, Agile
-                                                                                     ![360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC](https://github.com/Hamsa7141/Hamsa7141/assets/161375119/0056e370-e972-4642-98a4-f07881a5cd35)
+  
 
 
                                                                                                   
