@@ -7,11 +7,11 @@ I'm Hamsa Jibril, an Software developer and IT professional 👨‍💻 with a p
 
 - 🔭 I'm currently seeking employment
 - 🌱 I'm always eager to learn new technologies and methodologies
-- 💬 Ask me about: Software development, User support, System optimization         ![360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC](https://github.com/Hamsa7141/Hamsa7141/assets/161375119/af587717-227c-4c79-8fa7-a6f5109bf95b)
+- 💬 Ask me about: Software development, User support, System optimization         
 - 😄 Pronouns: he/him
 - ⚡ Skills: JavaScript, JIRA, Power BI, SAS, Salesforce, Agile
 
-
+                                                                                                                      ![360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC]          (https://github.com/Hamsa7141/Hamsa7141/assets/161375119/af587717-227c-4c79-8fa7-a6f5109bf95b)
 
 > InitCompileCycle()
 
