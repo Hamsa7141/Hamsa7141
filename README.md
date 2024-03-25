@@ -11,10 +11,11 @@ I'm Hamsa Jibril, an Software developer and IT professional 👨‍💻 with a p
 - 😄 Pronouns: he/him
 - ⚡ Skills: JavaScript, JIRA, Power BI, SAS, Salesforce, Agile
 
-                                                                                                                      ![360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC]          (https://github.com/Hamsa7141/Hamsa7141/assets/161375119/af587717-227c-4c79-8fa7-a6f5109bf95b)
-
+                                                                                                  
 > InitCompileCycle()
 
+
+                           ![360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC](https://github.com/Hamsa7141/Hamsa7141/assets/161375119/29a943e7-cfd4-40ef-91b3-c2e9a05b69e8)
 
 ---
 ⭐️ From [Hamsa](https://github.com/Hamsa7141)
