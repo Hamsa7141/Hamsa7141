@@ -6,7 +6,7 @@ I'm Hamsa Jibril, an Software developer and IT professional 👨‍💻 with a p
 
 - 🔭 I'm currently seeking employment
 - 🌱 I'm always eager to learn new technologies and methodologies
-- 💬 Ask me about: Software development, user support, system optimization
+- 💬 Ask me about: Software development, User support, System optimization
 - 😄 Pronouns: he/him
 - ⚡ Skills: JavaScript, JIRA, Power BI, SAS, Salesforce, Agile
 
